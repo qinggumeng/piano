@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="作业3" type="PLAIN_TEXT" />
+      <mapping pattern="作业2" type="PLAIN_TEXT" />
       <mapping pattern="作业" type="PLAIN_TEXT" />
       <mapping pattern="作业4" type="PLAIN_TEXT" />
     </extensionMap>
