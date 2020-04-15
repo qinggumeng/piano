@@ -82,6 +82,10 @@
           <option name="url" value="https://gitee.com/hfbdqn/mall.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/hfbdqn/logistics_accounting.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Desktop/proj" />
