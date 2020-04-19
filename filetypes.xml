@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="openid" type="JavaScript" />
+      <mapping pattern="ueditorconfig" type="PLAIN_TEXT" />
       <mapping pattern="作业" type="PLAIN_TEXT" />
       <mapping pattern="201737318" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
