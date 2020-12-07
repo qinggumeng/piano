@@ -3,6 +3,7 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;node_modules;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="openid" type="JavaScript" />
+      <mapping pattern=".env.uat" type="PLAIN_TEXT" />
       <mapping pattern="ueditorconfig" type="PLAIN_TEXT" />
       <mapping pattern="day5作业" type="PLAIN_TEXT" />
       <mapping pattern="作业" type="PLAIN_TEXT" />
