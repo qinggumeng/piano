@@ -8,6 +8,7 @@
       <mapping pattern="day5作业" type="PLAIN_TEXT" />
       <mapping pattern="作业" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".env.prod" type="PLAIN_TEXT" />
       <mapping pattern="201737318" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="作业6" type="PLAIN_TEXT" />
